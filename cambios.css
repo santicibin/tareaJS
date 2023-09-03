@@ -1,0 +1,26 @@
+
+.caja {
+	width: 150px;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+    align-items: center;   
+    background: red;
+}
+.nro1 {
+	background: red;
+    color: white;
+   
+}
+
+.nro2 {
+	background: chocolate;
+	color: white;
+	
+}
+.nro3 {
+	background:black;
+    color: white;
+    
+}
+
